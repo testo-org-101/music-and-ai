@@ -3,8 +3,7 @@
 An introductory lesson that covers the basics of how music and AI intersect.
 
 ## Learning Objectives
-- Understand key terminologies and concepts related to Music and AI
+Understand key terminologies and concepts related to Music and AI
 
 ## Topics Covered
-- Introduction to AI
-- AI's Application in Music
+Introduction to AI, AI's Application in Music
