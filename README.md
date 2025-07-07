@@ -1,2 +1,3 @@
-# music-and-ai
-An in-depth exploration of how artificial intelligence can be used in the creation, production, and analysis of music.
+# Music and AI
+
+DON'T YOU WANNA DANCE!
